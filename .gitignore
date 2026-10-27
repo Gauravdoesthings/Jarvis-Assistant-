@@ -1,0 +1,7 @@
+.env
+history.json
+facts.txt
+notes.txt
+habits.csv
+__pycache__/
+.streamlit/secrets.toml
